@@ -1,0 +1,17 @@
+{
+  "name": "mnemonic-generator",
+  "version": "1.0.0",
+  "description": "A simple app to generate BIP39 mnemonics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
